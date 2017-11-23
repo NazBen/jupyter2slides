@@ -5,6 +5,7 @@
  * The simple theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
  * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
  */
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -17,7 +18,7 @@ body {
 
 .reveal {
   font-family: font-family: "PT Sans", Helvetica, Arial, sans-serif!important;
-  font-size: 25px;
+  font-size: 17px;
   font-weight: normal;
   color: #3C3D42;
 }
@@ -32,7 +33,7 @@ body {
 .reveal .slides > section > section {
   line-height: 1.5;
   font-weight: inherit;
-  font-size: 28px;
+  font-size: 17px;
 }
 
 /*********************************************
